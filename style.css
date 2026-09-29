@@ -4,6 +4,7 @@
     padding: 5px;
     border-spacing: 5px;
     font-weight: bold;
+    border-collapse: collapse;
 }
 
 #mycaption{
@@ -15,11 +16,12 @@
 
 #name{
     text-align: center;
-    column-span: 2;
+    column-span: all;
     background-color: #ABDEE6;
     color: #1E2A56;
     font-family:'Trebuchet MS';
     font-weight: bold;
+    font-size: 30px;
 }
 
 #personaldetails{
