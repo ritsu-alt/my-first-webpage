@@ -22,11 +22,14 @@
     font-family:'Trebuchet MS';
     font-weight: bold;
     font-size: 30px;
+    border: 2px solid black;
+    padding: 5px;
 }
 
 #personaldetails{
     text-align:left;
     font-family:'Trebuchet MS';
+    
 }
 
 #hobbies{
@@ -34,6 +37,8 @@
     font-family:'Trebuchet MS';
     background-color: #D5E3E8;
     font-weight: bold;
+    border: 2px solid black;
+    padding: 5px;
 }
 
 #hobbieslist{
@@ -46,6 +51,8 @@
     font-family:'Trebuchet MS';
     background-color: #D5E3E8;
     font-weight: bold;
+    border: 2px solid black;
+    padding: 5px;
 }
 
 #movieslist{
@@ -60,6 +67,8 @@
 
 #favquote{
     background-color: #D5E3E8;
+    border: 2px solid black;
+    padding: 5px;
 }
 
 #trfact{
@@ -69,6 +78,8 @@
 
 #ffact{
     background-color: #D5E3E8;
+    border: 2px solid black;
+    padding: 5px;
 }
 
 #githubprof{
@@ -77,4 +88,10 @@
     column-span: 2;
     font-weight: bold;
     background-color:#ABDEE6;
+}
+
+th, td{
+    border: 2px solid black;
+    padding: 5px;
+    border-spacing: 5px;
 }
