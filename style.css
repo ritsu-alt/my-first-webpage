@@ -1,0 +1,78 @@
+#mytable{
+    text-align: center;
+    border: 2px solid black;
+    padding: 5px;
+    border-spacing: 5px;
+    font-weight: bold;
+}
+
+#mycaption{
+    text-align:center;
+    font-family:'Trebuchet MS';
+    font-weight: bold;
+}
+
+
+#name{
+    text-align: center;
+    column-span: 2;
+    background-color: #ABDEE6;
+    color: #1E2A56;
+    font-family:'Trebuchet MS';
+    font-weight: bold;
+}
+
+#personaldetails{
+    text-align:left;
+    font-family:'Trebuchet MS';
+}
+
+#hobbies{
+    text-align:center;
+    font-family:'Trebuchet MS';
+    background-color: #D5E3E8;
+    font-weight: bold;
+}
+
+#hobbieslist{
+    text-align:left;
+    font-family:'Trebuchet MS';
+}
+
+#top3movies{
+    text-align:center;
+    font-family:'Trebuchet MS';
+    background-color: #D5E3E8;
+    font-weight: bold;
+}
+
+#movieslist{
+    text-align:left;
+    font-family:'Trebuchet MS';
+}
+
+#trquote{
+    text-align:center;
+    font-family:'Trebuchet MS';
+}
+
+#favquote{
+    background-color: #D5E3E8;
+}
+
+#trfact{
+    text-align:center;
+    font-family:'Trebuchet MS';
+}
+
+#ffact{
+    background-color: #D5E3E8;
+}
+
+#githubprof{
+    text-align:center;
+    font-family:'Trebuchet MS';
+    column-span: 2;
+    font-weight: bold;
+    background-color:#ABDEE6;
+}
