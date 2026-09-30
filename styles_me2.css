@@ -1,0 +1,79 @@
+table {
+    border: 4px double black;
+    box-sizing: border-box;
+    padding: 2px;
+    margin-left: 425px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    padding: 5px;
+    border-spacing: 5px;
+}
+
+#caption {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+#name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+    background-color: #ABDEE6;
+    color:#1E2A56;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+img {
+    margin: 2px;
+    border: 2px solid black;
+}
+
+.category {
+    text-align: center;
+    background-color: #D5E3E8;
+    border: 2px solid black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.aleft {
+    text-align: left;
+}
+
+.embolden {
+    font-weight: bold;
+}
+
+#hobbies {
+    text-align: left;
+    list-style-type: square;
+}
+
+#git {
+    background-color: #ABDEE6;
+    color:#1E2A56;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+a:link {
+    color:#1E2A56;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #5276D6;
+    text-decoration: none;
+}
+
+a:hover {
+    color:aliceblue;
+    text-decoration: underline;
+}
+
+a:active {
+    color:aquamarine;
+    text-decoration: underline;
+}
